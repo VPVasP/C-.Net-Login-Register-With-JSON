@@ -1,0 +1,17 @@
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\obj\Debug\net8.0\C#RegisterLoginSystem.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\obj\Debug\net8.0\C#RegisterLoginSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\obj\Debug\net8.0\C#RegisterLoginSystem.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\obj\Debug\net8.0\C#RegisterLoginSystem.AssemblyInfo.cs
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\obj\Debug\net8.0\C#RegisterLoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\bin\Debug\net8.0\C#RegisterLoginSystem.exe
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\bin\Debug\net8.0\C#RegisterLoginSystem.deps.json
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\bin\Debug\net8.0\C#RegisterLoginSystem.runtimeconfig.json
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\bin\Debug\net8.0\C#RegisterLoginSystem.dll
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\bin\Debug\net8.0\C#RegisterLoginSystem.pdb
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\obj\Debug\net8.0\C#RegisterLoginSystem.csproj.CopyComplete
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\obj\Debug\net8.0\C#RegisterLoginSystem.dll
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\obj\Debug\net8.0\refint\C#RegisterLoginSystem.dll
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\obj\Debug\net8.0\C#RegisterLoginSystem.pdb
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\obj\Debug\net8.0\C#RegisterLoginSystem.genruntimeconfig.cache
+C:\Users\vasil\Desktop\C++Scripts\C#LoginRegisterSystem\C#RegisterLoginSystem\obj\Debug\net8.0\ref\C#RegisterLoginSystem.dll
